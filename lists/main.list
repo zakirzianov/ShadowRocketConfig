@@ -9,8 +9,29 @@ DOMAIN-SUFFIX,quora.com
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitch.tv
-DOMAIN-SUFFIX,x.com
+DOMAIN-SUFFIX,ads-twitter.com
+DOMAIN-SUFFIX,cms-twdigitalassets.com
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,tellapart.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twitter.jp
+DOMAIN-SUFFIX,twittercommunity.com
+DOMAIN-SUFFIX,twitterflightschool.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twttr.com
+DOMAIN-SUFFIX,twttr.net
+DOMAIN-SUFFIX,twvid.com
+DOMAIN-SUFFIX,vine.co
+DOMAIN-SUFFIX,x.com
 # Видео и медиа
 # YouTube
 DOMAIN-KEYWORD,youtube
@@ -23,6 +44,8 @@ DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,yting.com
+DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtubei.googleapis.com
 DOMAIN-SUFFIX,youtube.googleapis.com
 DOMAIN-SUFFIX,youtubeembeddedplayer.googleapis.com
@@ -34,6 +57,9 @@ DOMAIN-SUFFIX,youtubegaming.com
 DOMAIN-SUFFIX,youtubego.com
 DOMAIN-SUFFIX,youtubeeducation.com
 DOMAIN-SUFFIX,youtubemobilesupport.com
+DOMAIN-SUFFIX,jnn-pa.googleapis.com
+DOMAIN-SUFFIX,returnyoutubedislikeapi.com
+DOMAIN-SUFFIX,gt3.googleusercontent.com
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
@@ -44,6 +70,8 @@ DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,formula1.com
 DOMAIN-SUFFIX,imgur.com
 DOMAIN-SUFFIX,kino.pub
+DOMAIN-SUFFIX,cdn32.lol
+DOMAIN-SUFFIX,cdntogo.net
 DOMAIN-SUFFIX,metacritic.com
 DOMAIN-SUFFIX,pocketcasts.com
 DOMAIN-SUFFIX,pca.st
@@ -87,6 +115,7 @@ DOMAIN-SUFFIX,game.clashofclans.com
 DOMAIN-SUFFIX,gameloft.com
 DOMAIN-SUFFIX,security.id.supercell.com
 # Продуктивность и инструменты
+DOMAIN-KEYWORD,adguard
 DOMAIN-KEYWORD,notion
 DOMAIN-SUFFIX,canva.com
 DOMAIN-SUFFIX,canva.dev
