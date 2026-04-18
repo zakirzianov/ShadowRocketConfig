@@ -1,4 +1,4 @@
-# ShadowRocketSimpleConfig
+# ShadowRocketConfig
 
 Простой и эффективный набор правил маршрутизации для клиента ShadowRocket на iOS.
 
@@ -32,7 +32,7 @@
 3. Нажмите "+" в правом верхнем углу
 4. В поле "URL" введите:
    ```
-   https://raw.githubusercontent.com/tatarinovms/ShadowRocketSimpleConfig/master/baseline.conf
+   https://raw.githubusercontent.com/zakirzianov/ShadowRocketConfig/master/baseline.conf
    ```
 5. Нажмите "Download"
 
