@@ -2,20 +2,6 @@
 
 Простой и эффективный набор правил маршрутизации для клиента ShadowRocket на iOS.
 
-## Описание
-
-Этот репозиторий содержит оптимизированную конфигурацию для ShadowRocket с правилами маршрутизации для различных категорий сервисов:
-
-### Списки правил
-
-- **ai.list** — AI-сервисы (ChatGPT, Claude, Gemini, Copilot и другие)
-- **main.list** — Основные сервисы (социальные сети, видео, медиа, новости, инструменты)
-- **meta.list** — Сервисы Meta (Facebook, Instagram, WhatsApp)
-- **payments.list** — Платежные сервисы
-- **PSN.list** — PlayStation Network
-- **Telegram.list** — Мессенджер Telegram
-- **whatsapp_cidr_ipv4.list** — IP-адреса WhatsApp
-
 ## Как использовать ShadowRocket на iOS
 
 ### Шаг 1: Установка ShadowRocket
@@ -32,7 +18,7 @@
 3. Нажмите "+" в правом верхнем углу
 4. В поле "URL" введите:
    ```
-   https://raw.githubusercontent.com/zakirzianov/ShadowRocketConfig/master/baseline.conf
+   https://raw.githubusercontent.com/zakirzianov/ShadowRocketConfig/master/freedom.conf
    ```
 5. Нажмите "Download"
 
@@ -53,4 +39,4 @@
 
 ## Автоматическое обновление
 
-Конфигурация может автоматически обновляться. Для этого перейдите в раздел Config, нажмите на baseline.conf и выберите в меню Update.
+Конфигурация может автоматически обновляться. Для этого перейдите в раздел Config, нажмите на freedom.conf и выберите в меню Update.
